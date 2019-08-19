@@ -5,11 +5,12 @@
 }
 .itselfnav{
     height:40px;
+    width: 1200px;
     text-align: right;
     font-size: 12px;
     color:rgba(0,146,63,1);
+    margin: 0 auto;
     margin-top: 40px;
-    margin-right: 80px;
 }
 .itselfnav a{
     color:rgba(0,146,63,1);

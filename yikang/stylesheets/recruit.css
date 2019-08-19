@@ -4,10 +4,16 @@
     height: 400px;
     position: relative;
 }
-.bg div{
-    position: absolute;
-    top: 166px;
-    left: 342px;
+.bg .inbox{
+    width: 800px;
+    position: relative;
+    margin: 0 auto;
+
+}
+.bg .inbox img{
+position: absolute;
+top: 166px;
+left: 68px;
 }
 .man{
     margin:  0 auto;
@@ -61,11 +67,12 @@
 }
 .itselfnav{
     height:40px;
+    width: 1200px;
     text-align: right;
     font-size: 12px;
     color:rgba(0,146,63,1);
+    margin: 0 auto;
     margin-top: 40px;
-    margin-right: 80px;
 }
 .itselfnav a{
     color:rgba(0,146,63,1);

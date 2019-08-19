@@ -27,7 +27,7 @@ setInterval (
             hour ="0"+hour;
 
         }else if(hour==0){
-            hour= '00';
+            hour= 00;
 
         }  if(mins<10){
             mins="0"+mins;

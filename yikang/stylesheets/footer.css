@@ -20,7 +20,9 @@
 }
 .footer .QR-code img{
     margin-top: 28px;
-
+}
+.footer .QR-code .QR-code-2{
+    height: 30px;
 }
 .footer .licence{
     height: 30px;
@@ -49,7 +51,7 @@
 }
 .backTop{
     position: fixed;
-    top: 70%;
+    bottom: 100px;
     right: 10px;
     z-index: 7;
 }
